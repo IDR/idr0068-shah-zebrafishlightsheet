@@ -1,0 +1,99 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.																																	
+																																	
+# STUDY DESCRIPTION SECTION																																	
+"# Section with generic information about the study including title, description, publication details (if applicable) and contact details"																																	
+																																	
+Comment[IDR Study Accession]	# leave blank																																
+Study Title	Multi-scale imaging and analysis identifies pan-embryo cell dynamics of germlayer formation in zebrafish																														
+Study Type	# leave blank																																
+Study Type Term Source REF	# leave blank																																
+Study Type Term Accession	# leave blank																																
+Study Description	The coordination of cell movements across spatio-temporal scales ensures precise positioning of organs during vertebrate gastrulation. Mechanisms governing such morphogenetic movements have been studied only within a local region, a single germlayer or in whole embryos without cell identity. Scale-bridging imaging and automated analysis of cell dynamics are needed for a deeper understanding of tissue formation during gastrulation. Here we report pan-embryo analyses of formation and dynamics of all three germlayers simultaneously within a developing zebrafish embryo. We show that a distinct distribution of cells in each germlayer is established during early gastrulation via cell movement characteristics that are predominantly determined by their position in the embryo. The differences in initial germlayer distributions are subsequently amplified by a global movement, which organizes the organ precursors along the embryonic body axis, giving rise to the blueprint of organ formation. The tools and data are available as a resource for the community.		 																														
+Study Organism	"Danio rerio"																																
+Study Organism Term Source REF	NCBITaxon																																
+Study Organism Term Accession	# leave blank																																
+Study Experiments Number	"1"																																
+Study External URL	# if there is an existing web page related to the study enter it here																																
+Study Public Release Date	"# enter a date of when the data can be made public, if known"																																
+																																	
+# Study Publication																																	
+Study PubMed ID	# fill in if known																																
+Study Publication Title	Multi-scale imaging and analysis identifies pan-embryo cell dynamics of germlayer formation in zebrafish																														
+Study Author List	Gopi Shah, Konstantin Thierbach, Benjamin Schmid, Johannes Waschke, Anna Reade, Mario Hlawitschka, Ingo Roeder, Nico Scherf and Jan Huisken																																
+Study PMC ID	# fill in if known																																
+Study DOI	# fill in if known																																
+																																	
+# Study Contacts																																	
+Study Person Last Name	Shah										Scherf													Huisken																																
+Study Person First Name	Gopi										Nico													Jan																																
+Study Person Email	gopi.shah@embl.es								nico.scherf@tu-dresden.de										jhuisken@morgridge.org																													
+Study Person Address	EMBL, Carrer del Dr. Aiguader, 88, 08003 Barcelona, Spain			Institute for Medical Informatics and Biometry, Fetscherstr. 74, 01307 Dresden, Germany			Morgridge Institute for Research, Madison, Wisconsin 53715, USA																										
+Study Person ORCID	0000-0002-0154-9455								0000-0003-4003-9121											0000-0001-7250-3756										
+Study Person Roles	submitter									submitter												submitter											
+																																	
+# Study License and Data DOI																																	
+Study License	CC-BY																																
+Study License URL	# leave blank																																
+Study Copyright	Shah et al.																																
+Study Data Publisher	# leave blank																																
+Study Data DOI	# leave blank																																
+																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																													
+																																	
+																																	
+# EXPERIMENT SECTION																																	
+"# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment"																																	
+																																	
+Experiment Number	1																																
+Comment[IDR Experiment Name]	# leave blank																																
+Experiment Description	Lightsheet imaging of all three germ layers during early zebrafish development (4 - 18 hpf)																															
+Experiment Size	5D Images: XYZCT	Average Image Dimension (XYZCT): XYZ 1x1x1 3channels 120seconds/frame	Total Tb: 0.2 TB																													
+Experiment Example Images	"# if you have a favourite image from the screen, list it here.  We may use this image to highlight your screen"																																
+Experiment Imaging Method	Light Sheet Fluorescence Microscopy / SPIM																																
+Experiment Imaging Method Term Source REF	Fbbi																																
+Experiment Imaging Method Term Accession	# look up in http://www.ebi.ac.uk/ols/ontologies/fbbi or leave blank																																
+Experiment Comments	"# if there is anything you would like to say about the experiment not covered elsewhere you can enter it here e.g. image X is missing, or an additional file is included"																																
+																																	
+# assay files																																	
+Experiment Assay File	idr0068-Shah-experimentB-assays																																
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	26 Degrees ambient temperature, non-dechorionated embryos embedded in 1.5% LMA in E3 Media																																
+Assay Experimental Conditions Term Source REF	# leave blank																																
+Assay Experimental Conditions Term Accession	# leave blank																																
+Quality Control Description	All experimental/analysis quality control measures are described in Shah et al., 2019, Nature Communications																																
+																																	
+# Protocols																																	
+Protocol Name	Lightsheet imaging	Cell tracking with TGMM software																													
+Protocol Type	Lightsheet imaging	Cell tracking with TGMM software																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession																																
+Protocol Description	All experimental and data analysis protocols are described in Shah et al., 2019, Nature Communications
+																													
+																																	
+# Phenotypes																																	
+Phenotype Name	# if any specific phenotypes were identified in the experiment enter the information here.  Each phenotype should be in a separate column.																																
+Phenotype Description	"# give a brief description of each phenotype, or how it was determined e.g. if score X is greater than Y then this phenotype assigned."																																
+Phenotype Score Type	"# choose from: manual, automatic"																																
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name	# if your phenotype matches a term in the Cellular Microscopy Phenotype Ontology enter it here http://www.ebi.ac.uk/CMPO																																
+Phenotype Term Accession	# if your phenotype matches a term in the Cellular Microscopy Phenotype Ontology enter the accession for the term here http://www.ebi.ac.uk/CMPO		 																														
+																																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																	
+Feature Level Data File Name	# list any feature level table files here																																
+Feature Level Data File Format	# a description of the table																																
+Feature Level Data File Description	# tab-delimited text or other format																																
+Feature Level Data Column Name	"# list all the columns in the table, each column in the table should be in a separate column here"																																
+Feature Level Data Column Description	# describe the values in each column																																
+																																	
+#  Processed Data Files 																																	
+Processed Data File Name	sample-1-cell-tracks.csv																															
+Processed Data File Format	csv																																
+Processed Data File Description	Cell tracking coordinates for three germ layers																																
+Processed Data Column Name	x	y	z	t (time in number of frames)	layer (1-blastoderm, 2-mesendoderm, 3-endoderm)	id (cell track identifier)																															
+Processed Data Column Type	location	location	location	time	channel (germ layer identity)	identification number																																
+Processed Data Column Annotation Level	"# for data and phenotype columns enter the level of the annotation so that it is clear if the value is derived from data from a image, is averaged over many images. E.g. gene, experimental condition"																																
+"experimental condition and gene, phenotype, image, protein"""																																	
+Processed Data Column Description	"# for each data and phenotype column, enter a brief description of what the value represents"																																
+Processed Data Column Link To Assay File	"# enter which column can be used to link the information in the processed data file to the assay file e.g. targeted protein, or gene identifier"																																
