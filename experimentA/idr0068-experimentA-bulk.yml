@@ -1,0 +1,10 @@
+---
+continue: true
+transfer: "ln_s"
+skip:
+  - checksum
+  - minmax
+columns:
+  - target
+  - path
+path: "idr0068-experimentA-filePaths.tsv"
