@@ -1,6 +1,0 @@
-
-Dataset Name	Image File		Characteristics [Organism]	Term Source 1 REF	Term Source 1 Accession	Characteristics [Organism]	Characteristics [Genotype]	Characteristics [Developmental Stage]	Protocol REF 1		Protocol REF 2				Channels	Image File Type 	Comment [Image File Type]	Comment [Image File]									Comment [Processed]
-
-Sample 1	tp0000_c000_a0000.tif	Danio rerio			NCBITaxon		7955							Tg(sox17:tBFP) 			Gastrulation Stage			Lightsheet imaging	Cell tracking with TGMM software	TagBFP		Compressed TIFF			stitched, registered	Time point 0 - 419 (listed with filenames tp0001.., tp0002.., tp0003.. etc.)
-		tp0000_c001_a0000.tif	Danio rerio			NCBITaxon		7955							Tg(mezzo:GFP)			Gastrulation Stage			Lightsheet imaging	Cell tracking with TGMM software	GFP		Compressed TIFF				stitched, registered	Time point 0 - 419 (listed with filenames tp0001.., tp0002.., tp0003.. etc.)
-		tp0000_c002_a0000.tif	Danio rerio			NCBITaxon		7955							Tg(h2afva:h2afva-mCherry)	Gastrulation Stage			Lightsheet imaging	Cell tracking with TGMM software	GFP		Compressed TIFF				stitched, registered	Time point 0 - 419 (listed with filenames tp0001.., tp0002.., tp0003.. etc.)	Cell tracking data 
