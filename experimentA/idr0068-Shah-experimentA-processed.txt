@@ -1,2 +1,2 @@
 Dataset Name	Processed File			Processed File Type	Comment [Processed File]				
-Embryo 1	sample-1-cell-tracks.csv	CSV Data Table		columns: x, y, z, t (time in number of frames), layer (1-blastoderm, 2-mesendoderm, 3-endoderm), id (cell track identifier)
+Embryo 1	sample-1-cell-tracks.csv	CSV Data Table		columns: x, y, z, t (time in number of frames), layer (1-epiblast, 2-mesendoderm, 3-endoderm), id (cell track identifier)
