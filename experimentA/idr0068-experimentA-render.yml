@@ -1,0 +1,30 @@
+---
+channels:
+    1:
+        active: true
+        color: FFFF00
+        end: 500.0
+        label: Endoderm
+        max: 65535.0
+        min: 0.0
+        start: 150.0
+    2:
+        active: true
+        color: FF0000
+        end: 3000.0
+        label: Mesendoderm
+        max: 65535.0
+        min: 0.0
+        start: 100.0
+    3:
+        active: true
+        color: 00FFFF
+        end: 1500.0
+        label: Epiblast
+        max: 65535.0
+        min: 0.0
+        start: 100.0
+greyscale: false
+t: 1
+version: 2
+z: 330
